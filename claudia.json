@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "travelbuddy-executor",
+    "name": "travelbuddy",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "mk2q1c0r9j",
+    "module": "bot"
+  }
+}

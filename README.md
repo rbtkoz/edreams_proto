@@ -1,2 +1,3 @@
-###Airberlin bot based on Claudia for AWS Lambda.
-# edreams_proto
+##Edreams chatbot prototype based on Claudia for AWS Lambda.
+### Deployed to FB.
+
